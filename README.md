@@ -44,8 +44,9 @@
 </p>
 
 <p align= "center">
-  [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=viveksharmapoudel)](https://github.com/viveksharmapoudel)
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksharmapoudel&theme=react&layout=compact" />
+
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=viveksharmapoudel&show_icons=true&count_private=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksharmapoudel&theme=react&layout=compact&count_private=true" />
 
 </p>
 
