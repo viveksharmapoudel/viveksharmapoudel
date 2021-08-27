@@ -44,7 +44,7 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=viveksharmapoudel&show_icons=true" />
+  [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=viveksharmapoudel)](https://github.com/viveksharmapoudel)
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksharmapoudel&theme=react&layout=compact" />
 
 </p>
