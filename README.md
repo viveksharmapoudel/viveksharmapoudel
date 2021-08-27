@@ -44,8 +44,8 @@
 </p>
 
 <p align= "center">
-  [![viveksharmapoudel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveksharmapoudel&show_icons=true)](https://github.com/viveksharmapoudel)
-![Viveksharmapoudel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksharmapoudel&theme=vue&layout=compact)
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=viveksharmapoudel&show_icons=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksharmapoudel&theme=react&layout=compact" />
 
 </p>
 
