@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Front-End developer from Nepal</h3>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **web development using Next js & react-native**
 
 - 🌱 I’m currently exploring **Typescript and Golang**
 
