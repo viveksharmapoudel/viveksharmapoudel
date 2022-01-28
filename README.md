@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vivek <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Front-End developer from Nepal</h3>
 
-- 🔭 I’m currently working on **web development using Next js & react-native**
+- 🔭 Ask me about: **Javascript, Go and python **
 
-- 🌱 I’m currently exploring **Typescript and Golang**
+- 🌱 I’m currently exploring **mobile app using flutter**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **viveksharmapoudel@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, football and cooking ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
