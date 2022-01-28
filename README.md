@@ -75,10 +75,8 @@
   
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=viveksharmapoudel&count_private=true&show_icons=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksharmapoudel&count_private=true&theme=react&layout=compact&count_private=true" />
-</p>
+[![viveksharmapoudel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveksharmapoudel&show_icons=true)](https://github.com/viveksharmapoudel)
+![viveksharmapoudel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksharmapoudel&theme=vue&layout=compact)
 
 ------
 
