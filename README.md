@@ -75,11 +75,9 @@
   
 </p>
 
-<p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=viveksharmapoudel&count_private=true&show_icons=true" />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksharmapoudel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
 ------
 
 
