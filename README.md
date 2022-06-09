@@ -3,7 +3,7 @@
 
 - 🔭 Ask me about: **Javascript, Go and python **
 
-- 🌱 I’m currently exploring **mobile app using flutter**
+- 🌱 I’m currently exploring **blockchain technology**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
