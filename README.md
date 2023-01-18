@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Front-End developer from Nepal</h3>
+<h3 align="center">A passionate Software developer from Nepal</h3>
 
 - 🔭 Ask me about: **Javascript, Go and python **
 
